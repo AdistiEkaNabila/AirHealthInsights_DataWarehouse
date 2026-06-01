@@ -40,7 +40,8 @@ Proyek ini mengimplementasikan **Data Warehouse** dan **OLAP** untuk menganalisi
 ---
 
 ## Referensi Dataset & Penelitian
-- Dataset: [https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Impacts/c3uy-2p5r/about_data] 
+- Dataset:
+  https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Impacts/c3uy-2p5r/about_data
 - Penelitian:
   - Manisalidis et al., 2020: [DOI 10.3389/fpubh.2020.00014](https://doi.org/10.3389/fpubh.2020.00014)
   - Agarwal et al., 2021: [DOI 10.1016/j.procs.2021.08.004](https://doi.org/10.1016/j.procs.2021.08.004)
