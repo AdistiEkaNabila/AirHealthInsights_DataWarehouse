@@ -1,0 +1,22 @@
+indicator_key,source_indicator_id,indicator_name,indicator_category
+1,642,Boiler Emissions- Total NOx Emissions,Air Quality Indicator
+2,641,Boiler Emissions- Total PM2.5 Emissions,Air Quality Indicator
+3,640,Boiler Emissions- Total SO2 Emissions,Air Quality Indicator
+4,365,Fine particles (PM 2.5),Air Quality Indicator
+5,375,Nitrogen dioxide (NO2),Air Quality Indicator
+6,386,Ozone (O3),Air Quality Indicator
+7,648,Asthma emergency department visits due to PM2.5,Health Impact Indicator
+8,657,Asthma emergency department visits due to PM2.5,Health Impact Indicator
+9,659,Asthma emergency departments visits due to Ozone,Health Impact Indicator
+10,653,Asthma emergency departments visits due to Ozone,Health Impact Indicator
+11,661,Asthma hospitalizations due to Ozone,Health Impact Indicator
+12,655,Asthma hospitalizations due to Ozone,Health Impact Indicator
+13,652,Cardiac and respiratory deaths due to Ozone,Health Impact Indicator
+14,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Health Impact Indicator
+15,639,Deaths due to PM2.5,Health Impact Indicator
+16,650,Respiratory hospitalizations due to PM2.5 (age 20+),Health Impact Indicator
+17,643,Annual vehicle miles traveled,Other Indicator
+18,644,Annual vehicle miles traveled (cars),Other Indicator
+19,645,Annual vehicle miles traveled (trucks),Other Indicator
+20,646,Outdoor Air Toxics - Benzene,Other Indicator
+21,647,Outdoor Air Toxics - Formaldehyde,Other Indicator

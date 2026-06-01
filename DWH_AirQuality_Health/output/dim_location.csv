@@ -1,0 +1,142 @@
+location_id,geo_type_name,geo_join_id,geo_place_name
+1,Borough,1,Bronx
+2,Borough,2,Brooklyn
+3,Borough,3,Manhattan
+4,Borough,4,Queens
+5,Borough,5,Staten Island
+6,CD,310,Bay Ridge and Dyker Heights (CD10)
+7,CD,411,Bayside and Little Neck (CD11)
+8,CD,303,Bedford Stuyvesant (CD3)
+9,CD,206,Belmont and East Tremont (CD6)
+10,CD,311,Bensonhurst (CD11)
+11,CD,312,Borough Park (CD12)
+12,CD,316,Brownsville (CD16)
+13,CD,304,Bushwick (CD4)
+14,CD,110,Central Harlem (CD10)
+15,CD,104,Clinton and Chelsea (CD4)
+16,CD,313,Coney Island (CD13)
+17,CD,308,Crown Heights and Prospect Heights (CD8)
+18,CD,317,East Flatbush (CD17)
+19,CD,111,East Harlem (CD11)
+20,CD,305,East New York and Starrett City (CD5)
+21,CD,404,Elmhurst and Corona (CD4)
+22,CD,101,Financial District (CD1)
+23,CD,314,Flatbush and Midwood (CD14)
+24,CD,318,Flatlands and Canarsie (CD18)
+25,CD,407,Flushing and Whitestone (CD7)
+26,CD,205,Fordham and University Heights (CD5)
+27,CD,302,Fort Greene and Brooklyn Heights (CD2)
+28,CD,301,Greenpoint and Williamsburg (CD1)
+29,CD,102,Greenwich Village and Soho (CD2)
+30,CD,204,Highbridge and Concourse (CD4)
+31,CD,408,Hillcrest and Fresh Meadows (CD8)
+32,CD,202,Hunts Point and Longwood (CD2)
+33,CD,403,Jackson Heights (CD3)
+34,CD,412,Jamaica and Hollis (CD12)
+35,CD,409,Kew Gardens and Woodhaven (CD9)
+36,CD,207,Kingsbridge Heights and Bedford (CD7)
+37,CD,401,Long Island City and Astoria (CD1)
+38,CD,103,Lower East Side and Chinatown (CD3)
+39,CD,105,Midtown (CD5)
+40,CD,109,Morningside Heights and Hamilton Heights (CD9)
+41,CD,211,Morris Park and Bronxdale (CD11)
+42,CD,203,Morrisania and Crotona (CD3)
+43,CD,201,Mott Haven and Melrose (CD1)
+44,CD,306,Park Slope and Carroll Gardens (CD6)
+45,CD,209,Parkchester and Soundview (CD9)
+46,CD,413,Queens Village (CD13)
+47,CD,406,Rego Park and Forest Hills (CD6)
+48,CD,405,Ridgewood and Maspeth (CD5)
+49,CD,208,Riverdale and Fieldston (CD8)
+50,CD,414,Rockaway and Broad Channel (CD14)
+51,CD,315,Sheepshead Bay (CD15)
+52,CD,502,South Beach and Willowbrook (CD2)
+53,CD,309,South Crown Heights and Lefferts Gardens (CD9)
+54,CD,410,South Ozone Park and Howard Beach (CD10)
+55,CD,501,St. George and Stapleton (CD1)
+56,CD,106,Stuyvesant Town and Turtle Bay (CD6)
+57,CD,307,Sunset Park (CD7)
+58,CD,210,Throgs Neck and Co-op City (CD10)
+59,CD,503,Tottenville and Great Kills (CD3)
+60,CD,108,Upper East Side (CD8)
+61,CD,107,Upper West Side (CD7)
+62,CD,112,Washington Heights and Inwood (CD12)
+63,CD,212,Williamsbridge and Baychester (CD12)
+64,CD,402,Woodside and Sunnyside (CD2)
+65,Citywide,1,New York City
+66,UHF34,404406,Bayside Little Neck-Fresh Meadows
+67,UHF34,203,Bedford Stuyvesant - Crown Heights
+68,UHF34,209,Bensonhurst - Bay Ridge
+69,UHF34,206,Borough Park
+70,UHF34,208,Canarsie - Flatlands
+71,UHF34,302,Central Harlem - Morningside Heights
+72,UHF34,306308,Chelsea-Village
+73,UHF34,210,Coney Island - Sheepshead Bay
+74,UHF34,202,Downtown - Heights - Slope
+75,UHF34,207,East Flatbush - Flatbush
+76,UHF34,303,East Harlem
+77,UHF34,204,East New York
+78,UHF34,403,Flushing - Clearview
+79,UHF34,103,Fordham - Bronx Pk
+80,UHF34,201,Greenpoint
+81,UHF34,408,Jamaica
+82,UHF34,101,Kingsbridge - Riverdale
+83,UHF34,401,Long Island City - Astoria
+84,UHF34,102,Northeast Bronx
+85,UHF34,501502,Northern SI
+86,UHF34,104,Pelham - Throgs Neck
+87,UHF34,405,Ridgewood - Forest Hills
+88,UHF34,410,Rockaways
+89,UHF34,105106107,South Bronx
+90,UHF34,409,Southeast Queens
+91,UHF34,503504,Southern SI
+92,UHF34,407,Southwest Queens
+93,UHF34,205,Sunset Park
+94,UHF34,309310,Union Square-Lower Manhattan
+95,UHF34,305307,Upper East Side-Gramercy
+96,UHF34,304,Upper West Side
+97,UHF34,301,Washington Heights
+98,UHF34,402,West Queens
+99,UHF34,211,Williamsburg - Bushwick
+100,UHF42,404,Bayside - Little Neck
+101,UHF42,203,Bedford Stuyvesant - Crown Heights
+102,UHF42,209,Bensonhurst - Bay Ridge
+103,UHF42,206,Borough Park
+104,UHF42,208,Canarsie - Flatlands
+105,UHF42,302,Central Harlem - Morningside Heights
+106,UHF42,306,Chelsea - Clinton
+107,UHF42,210,Coney Island - Sheepshead Bay
+108,UHF42,105,Crotona -Tremont
+109,UHF42,202,Downtown - Heights - Slope
+110,UHF42,207,East Flatbush - Flatbush
+111,UHF42,303,East Harlem
+112,UHF42,204,East New York
+113,UHF42,403,Flushing - Clearview
+114,UHF42,103,Fordham - Bronx Pk
+115,UHF42,406,Fresh Meadows
+116,UHF42,307,Gramercy Park - Murray Hill
+117,UHF42,201,Greenpoint
+118,UHF42,308,Greenwich Village - SoHo
+119,UHF42,106,High Bridge - Morrisania
+120,UHF42,107,Hunts Point - Mott Haven
+121,UHF42,408,Jamaica
+122,UHF42,101,Kingsbridge - Riverdale
+123,UHF42,401,Long Island City - Astoria
+124,UHF42,310,Lower Manhattan
+125,UHF42,102,Northeast Bronx
+126,UHF42,104,Pelham - Throgs Neck
+127,UHF42,501,Port Richmond
+128,UHF42,405,Ridgewood - Forest Hills
+129,UHF42,410,Rockaways
+130,UHF42,504,South Beach - Tottenville
+131,UHF42,409,Southeast Queens
+132,UHF42,407,Southwest Queens
+133,UHF42,502,Stapleton - St. George
+134,UHF42,205,Sunset Park
+135,UHF42,309,Union Square - Lower East Side
+136,UHF42,305,Upper East Side
+137,UHF42,304,Upper West Side
+138,UHF42,301,Washington Heights
+139,UHF42,402,West Queens
+140,UHF42,211,Williamsburg - Bushwick
+141,UHF42,503,Willowbrook
