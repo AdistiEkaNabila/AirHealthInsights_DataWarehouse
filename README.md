@@ -16,10 +16,15 @@ Proyek ini mengimplementasikan **Data Warehouse** dan **OLAP** untuk menganalisi
 
 ## Struktur Repository
 ├─ data_raw/ # Dataset mentah
+
 ├─ data_clean/ # Dataset hasil cleaning
+
 ├─ data_batch/ # Batch dataset per periode
+
 ├─ output/ # Hasil ETL, CSV dimensi & fact tables
+
 ├─ notebooks/ # Jupyter Notebook ETL & analisis
+
 └─ README.md # Dokumentasi proyek
 
 
