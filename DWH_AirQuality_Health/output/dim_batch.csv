@@ -1,0 +1,4 @@
+batch_id,batch_name,start_year,end_year,total_rows,description
+1,Batch 1,2005,2012,6904,Ekstraksi periodik data tahun 2005 sampai 2012
+2,Batch 2,2013,2018,6984,Ekstraksi periodik data tahun 2013 sampai 2018
+3,Batch 3,2019,2023,4974,Ekstraksi periodik data tahun 2019 sampai 2023

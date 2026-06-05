@@ -7,8 +7,8 @@ indicator_key,source_indicator_id,indicator_name,indicator_category
 6,386,Ozone (O3),Air Quality Indicator
 7,648,Asthma emergency department visits due to PM2.5,Health Impact Indicator
 8,657,Asthma emergency department visits due to PM2.5,Health Impact Indicator
-9,659,Asthma emergency departments visits due to Ozone,Health Impact Indicator
-10,653,Asthma emergency departments visits due to Ozone,Health Impact Indicator
+9,653,Asthma emergency departments visits due to Ozone,Health Impact Indicator
+10,659,Asthma emergency departments visits due to Ozone,Health Impact Indicator
 11,661,Asthma hospitalizations due to Ozone,Health Impact Indicator
 12,655,Asthma hospitalizations due to Ozone,Health Impact Indicator
 13,652,Cardiac and respiratory deaths due to Ozone,Health Impact Indicator
